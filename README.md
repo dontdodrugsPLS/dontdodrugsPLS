@@ -24,7 +24,7 @@ I’m particularly interested in **binary analysis** and **reverse engineering**
   <img src="https://img.shields.io/badge/Zed-111111?style=flat"/>
 </p>
 
-### Tools & Environment
+### Environments & General Tools
 <p>
   <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"/>
