@@ -33,7 +33,7 @@ understanding how software behaves internally and identifying weaknesses from a 
   <img src="https://img.shields.io/badge/Make-6D00CC?style=flat"/>
 </p>
 
-### 🧪 Languages & Technologies I’ve Explored
+### Languages & Technologies I’ve Explored
 
 These are technologies I’ve **worked with or explored**, but I don’t claim expert level mastery.
 I include them because I understand the concepts and fundamentals, and I’m comfortable revisiting them when needed.
