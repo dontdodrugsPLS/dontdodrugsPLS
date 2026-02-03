@@ -1,13 +1,10 @@
 ## 👻 About Me
 
-I’m an 19 year old developer currently studying at **Epitech**, passionate about  
-**systems programming**, performance, and understanding how a computer works at a low level.
+I’m a **19-year-old developer** currently studying at **Epitech**, driven by a deep curiosity for **systems programming**, **performance**, and the inner workings of computers.
 
-I enjoy diving into how software interacts with hardware: memory, execution, binaries,  
-and operating systems. I care a lot about **clean, readable, and efficient code**.
+I enjoy exploring the boundary between software and hardware, from **memory management** and **program execution** to **binary formats** and **operating systems**. Writing **clean**, **readable**, and **efficient** code matters a lot to me, both for correctness and long term maintainability.
 
-I’m also interested in **binary analysis and reverse engineering**, especially  
-understanding how software behaves internally and identifying weaknesses from a learning and security perspective.
+I’m particularly interested in **binary analysis** and **reverse engineering**, with a focus on understanding how software behaves internally and identifying weaknesses from a **_learning and security perspective_**.
 
 ## 🕯️ Tech Stack
 
