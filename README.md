@@ -1,4 +1,4 @@
-## 🧩 About Me
+## 👻 About Me
 
 I’m an 19 year old developer currently studying at **Epitech**, passionate about  
 **systems programming**, performance, and understanding how a computer works at a low level.
@@ -9,7 +9,7 @@ and operating systems. I care a lot about **clean, readable, and efficient code*
 I’m also interested in **binary analysis and reverse engineering**, especially  
 understanding how software behaves internally and identifying weaknesses from a learning and security perspective.
 
-## 🛠️ Tech Stack
+## 🕯️ Tech Stack
 
 ### Core Languages
 <p>
