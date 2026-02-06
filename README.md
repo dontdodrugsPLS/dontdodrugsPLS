@@ -67,6 +67,8 @@ I include them because I understand the concepts and fundamentals, and I’m com
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+</p>
+<p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bubble-000000?style=flat"/>
   <img src="https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white"/>
