@@ -4,8 +4,6 @@ I’m a **19-year-old developer** currently studying at **Epitech**, driven by a
 
 I enjoy exploring the boundary between software and hardware, from **memory management** and **program execution** to **binary formats** and **operating systems**. Writing **clean**, **readable**, and **efficient** code matters a lot to me, both for correctness and long term maintainability.
 
-I’m particularly interested in **binary analysis** and **reverse engineering**, with a focus on understanding how software behaves internally and identifying weaknesses from a **_learning and security perspective_**.
-
 ## 🕯️ Tech Stack
 
 ### Core Languages
